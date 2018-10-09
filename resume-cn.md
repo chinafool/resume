@@ -1,31 +1,29 @@
-# 蔡梦杰
+# 胡瑞鹏
 
-## 安卓开发工程师
+## java开发工程师
 
-- 联系电话: +86 1xx-xxxx-xxxx
-- 电子邮箱: [blankj@qq.com](blankj@qq.com)
-- 个人博客: [http://blankj.com](http://blankj.com)
-- GitHub: [https://github.com/Blankj](https://github.com/Blankj)
+- 联系电话: +86 176-0090-4674
+- 电子邮箱: [hruipeng61@gmail.com](hruipeng61@gmail.com)
 
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **20k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
+我是一名热爱**开源**的java开发者，喜欢学习,喜欢研究新鲜的技术架构。我追求开发**高质量**及拥有**良好用户体验**的应用；同样，我注重**开发效率**及**知识的累积**；当然，作为一名程序员，我也很是注重数据结构和算法及设计模式的学习,喜欢在工作中采用新技术解决老问题。
 
 
 ## 工作经验
 
-### **高级 Android 开发工程师** [阿里巴巴](https://www.alibabagroup.com)
+### **高级 java 开发工程师** [铜钱贯](https://www.tongqianguan.com)
 
-*2018/10 - 至今*
+*2018/1 - 至今*
 
 
 
-### **高级 Android 开发工程师** [51 信用卡](https://www.u51.com)
+### **高级 java 开发工程师** [易安财产保险](https://www.1an.com/)
 
-*2018/03 - 2018/08*
+*2017/01 - 2018/1*
 
-在 Android 客户端基础架构组下主要负责提升工程效率和新技术的引进，主要内容如下：
+负责业务核心系统-财经系统(再保,费控,税务,资金)，主要内容如下：
 
 * 统一 Android 公共工具库以提升团队开发效率；
 * 状态栏刘海适配；
@@ -62,17 +60,16 @@
 
 ## 技能专长
 
-以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
+以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^-^ 符号的是我比较喜欢和常用的。
 
 ### 编程语言
 
-- [Java](https://www.java.com)^†^
-- [Kotlin](http://kotlinlang.org)^†^
-- [Python](https://www.python.org)
+- [Java](https://www.java.com)^-^
+- [JavaScript](https://www.javascript.com)^-^
 - [C/C++](http://www.cplusplus.com)
 - [Shell](http://www.linuxshell.it)
-- [JavaScript](https://www.javascript.com)
 - [HTML](https://www.w3.org/html)
+- [Python](https://www.python.org)
 
 
 ### 框架
@@ -105,14 +102,15 @@
 
 ## 教育经历
 
-*2012 - 2016* [浙江传媒学院](http://www.zjicm.edu.cn) 电子信息工程 本科
+*2008 - 2012* [河南科技大学](http://www.zjicm.edu.cn) 信息工程 本科
 
 
 ## 个人荣誉
 
-* 荣获第 13 届浙江省 **ACM 大赛**；
-* 第 6 届和第 7 届蓝桥杯 **省赛一等**，**国赛二等**；
-* 3 次 **一等校奖学金** 及 3 次 **二等校奖学金**。
+* 中科软年度部门优秀员工；
+* 大学生英语竞赛一等奖；
+* 获得过校级奖学金。
+* 英语六级
 
 
 ## 兴趣爱好
